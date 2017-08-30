@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LALALA</title>
+    <title>Posts on Engine &amp; Code</title>
     <link>https://haledir.github.io/hugo-example/post/</link>
-    <description>Recent content in Posts on LALALA</description>
+    <description>Recent content in Posts on Engine &amp; Code</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-DE</language>
     <lastBuildDate>Wed, 30 Aug 2017 09:07:44 +0200</lastBuildDate>
     
 	<atom:link href="https://haledir.github.io/hugo-example/post/index.xml" rel="self" type="application/rss+xml" />
