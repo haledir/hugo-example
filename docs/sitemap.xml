@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/</loc>
+    <lastmod>2017-08-30T09:27:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/about/</loc>
+    <lastmod>2017-08-30T09:24:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/post/my-first-post/</loc>
+    <lastmod>2017-08-30T09:07:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/post/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/post/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/post/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/post/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/categories/ipsum/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/</loc>
+    <lastmod>2017-08-30T09:27:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/post/</loc>
+    <lastmod>2017-08-30T09:07:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haledir.github.io/hugo-example/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
